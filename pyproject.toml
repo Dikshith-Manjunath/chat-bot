@@ -11,4 +11,5 @@ dependencies = [
     "langchain-openai>=0.1.0",
     "langchain-community>=0.1.0",
     "python-dotenv>=1.0.0",
+    "pip>=25.2",
 ]
